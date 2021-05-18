@@ -12,7 +12,7 @@ Features CRUD,Search,Pagination,Auth
 ```bash
 npm install
 ```
-- Import mysql database
+- Import mysql database from database folder
 - Run project 
 ```bash
 node app.js or npx nodemon
