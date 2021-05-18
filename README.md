@@ -17,6 +17,14 @@ npm install
 ```bash
 node app.js or npx nodemon
 ```
+- Create .env File
+```bash
+PORT=5000
+DB_HOST=localhost
+DB_USERS=root
+DB_PASS=
+DB_NAME=test-nodejs
+```
 ## Postman Documentation
 
 Postman documentation click [here](https://documenter.getpostman.com/view/13758133/TzRYc4U6)
