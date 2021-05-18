@@ -13,10 +13,6 @@ Features CRUD,Search,Pagination,Auth
 npm install
 ```
 - Import mysql database from database folder
-- Run project 
-```bash
-node app.js or npx nodemon
-```
 - Create .env File
 ```bash
 PORT=5000
@@ -24,6 +20,10 @@ DB_HOST=localhost
 DB_USERS=root
 DB_PASS=
 DB_NAME=test-nodejs
+```
+- Run project 
+```bash
+node app.js or npx nodemon
 ```
 ## Postman Documentation
 
